@@ -1,1 +1,1 @@
-gapi = "AIzaSyCFqE97MNWWeK22lbYPEaS-69RnB1WVRrg"
+gapi = "Your google API Key Here"
