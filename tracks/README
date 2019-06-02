@@ -1,0 +1,2 @@
+Parsing and extracting data from XML using Python and storing in SQLITE3 database: 
+Parsing an exported i-tunes library (XML) and organizing music details (artist, genre, etc) appropriately in a normalized SQLite database.
