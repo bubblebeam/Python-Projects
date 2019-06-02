@@ -1,2 +1,3 @@
 Parsing the user data stored in a JSON file using python and storing the data in a normalized SQLite database.
 The JSON data is of format [user, course, role]
+1 is to many relationship involved since one user may be enrolled in many courses
