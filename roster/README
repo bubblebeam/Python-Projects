@@ -1,0 +1,2 @@
+Parsing the user data stored in a JSON file using python and storing the data in a normalized SQLite database.
+The JSON data is of format [user, course, role]
