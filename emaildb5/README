@@ -1,0 +1,3 @@
+Working with a large amount of email data
+(headers and body) of various users and filtering out required relevant information from the same and storing in database using python.
+Data stored in database is the domain name of all the email ids and the number of emails sent by the correspond sender sorted in the descending order of number of emails sent
